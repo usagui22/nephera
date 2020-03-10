@@ -21,6 +21,8 @@ archivo de **README**.
 El siguiente es un proyecto para realizar practicas con comandos Git, 
 la idea de utilizar un proyecto fantasma que posiblemente pueda
 ser implementado por algun lenguaje.
+
+
 ====================================================================
 ATENCION SOLO CON FINES EDUCATIVOS - PRACTICOS
 ====================================================================
