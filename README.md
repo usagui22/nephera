@@ -1,16 +1,23 @@
 # nephera
 ## README
+
 Este es un ejemplo de un readme con lenguaje markdown.
 Mediante la siguiente documentacion, procederemos a ver com realizar un buen 
 archivo de **README**.
 
-### Contenido
-#####Proyecto Nephera
-#####Comandos Git en Nephera
-#####Un buen README
-#####Otras consideraciones al momento de realizar un README
+### Contenido ### 
+
+#### - Proyecto Nephera ####
+
+#### - Comandos Git en Nephera ####
+
+#### - Un buen README ####
+
+#### - Otras consideraciones al momento de realizar un README ####
+
 
 ### Proyecto Nephera
+
 El siguiente es un proyecto para realizar practicas con comandos Git, 
 la idea de utilizar un proyecto fantasma que posiblemente pueda
 ser implementado por algun lenguaje.
@@ -19,6 +26,8 @@ ATENCION SOLO CON FINES EDUCATIVOS - PRACTICOS
 ====================================================================
 
 ### Comandos Git en Nephera
+
+
 Cuando se crea el proyecto en GitHub, se fue a la parte superior derecha 
 la vista principal del usuario, en su lado izquierdo se encontraran 
 una flecha invertida por la cual ingresaras a las opciones 
@@ -32,6 +41,8 @@ Y listo ya tienes el repositorio...
 ========================================================================
 
 ###### Comandos GIT
+
+
 Para configurar tu equipo git debes ejecutar las siguientes:
 'git config --global user.name "nombre de usuario"'
 'git config --global user.email "correo electronico"'
@@ -61,6 +72,8 @@ mediante el navegador de preferencia.
 ==========================================================================
 
 ### Un buen README
+
+
 Un README.md es un archivo que contiene las instrucciones - acciones 
 a realizar por un usuario con el repositorio que esta trabajando.
 
@@ -88,6 +101,7 @@ pueden utilizar para aclarar detalles que no hayan comprendido en el resto
 del **README** o informacion de contacto como redes sociales, etc.
 
 ###### Otras Consideraciones al momento de realizar un README
+
 
 Podemos encontrar consejos optimos al realizar un README eficiente:
 1. El primer titulo siempre es el nombre del proyecto
