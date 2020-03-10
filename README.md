@@ -38,39 +38,39 @@ Llenas los campos del formulario con datos como: nombre, seleccionar
 privacidad de repositorio [si este ser privado o publico], crear un 
 README autogenerado y pulsar el boton aceptar o crear.
 Y listo ya tienes el repositorio...
-========================================================================
+
 
 ###### Comandos GIT ######
 
 
 
 Para configurar tu equipo git debes ejecutar las siguientes:
-'git config --global user.name "nombre de usuario"'
-'git config --global user.email "correo electronico"'
+'' git config --global user.name "nombre de usuario" ''
+'' git config --global user.email "correo electronico" ''
 luego crears una carpeta donde alojar el repositorio:
-'mkdir [nombre del repositorio]'
+'' mkdir [nombre del repositorio] ''
 ingresas en la carpeta:
-'cd [nombre de carpeta]'
+'' cd [nombre de carpeta] ''
 Luego pasas a clonarlo el repositorio en tu maquina local:
-'git clone [enlace https del nuevo repositorio de tu cuenta GitHub]'
+'' git clone [enlace https del nuevo repositorio de tu cuenta GitHub] ''
 cuando termine de clonar, inicias dentro el repositorio:
-'git init'
+'' git init ''
 puedes crearte una rama para no trabajar sobre la rama master:
-'git checkout -b [nombre de la rama]'
+'' git checkout -b [nombre de la rama] ''
 procedes a realizar o subir las modificaciones, en nuestro caso
 subimos un archivo instrucciones.txt:
-'echo "este archivo contendra informacion sobre intruscciones">>instrucciones.txt'
+'' echo "este archivo contendra informacion sobre intruscciones">>instrucciones.txt ''
 aniadimos a la rama que tenemos:
-'git add .'
+'' git add . ''
 verificamos si se subieron los cambios correctamente:
-'git status'
+'' git status ''
 realizamos el primer commit:
-'git commit -m "Primer Commit"'
+'' git commit -m "Primer Commit" ''
 luego subimos al repositorio en la nube:
-'git push origin [nombre de la rama]'
+'' git push origin [nombre de la rama] ''
 y verificamos que se halla subido correctamente en el repositorio de la nube
 mediante el navegador de preferencia.
-==========================================================================
+
 
 ### Un buen README ###
 
