@@ -31,7 +31,7 @@ ATENCION SOLO CON FINES EDUCATIVOS - PRACTICOS
 Cuando se crea el proyecto en GitHub, se fue a la parte superior derecha 
 la vista principal del usuario, en su lado izquierdo se encontraran 
 una flecha invertida por la cual ingresaras a las opciones 
->ir a NEW REPOSITORY
+Ir a NEW REPOSITORY
 luego procedes a hacer click y te enviara a la vista de formulario
 para la creacion de nuevo repositorio.
 Llenas los campos del formulario con datos como: nombre, seleccionar 
@@ -45,29 +45,51 @@ Y listo ya tienes el repositorio...
 
 
 Para configurar tu equipo git debes ejecutar las siguientes:
+
 '' git config --global user.name "nombre de usuario" ''
 '' git config --global user.email "correo electronico" ''
+
 luego crears una carpeta donde alojar el repositorio:
+
 '' mkdir [nombre del repositorio] ''
+
 ingresas en la carpeta:
+
 '' cd [nombre de carpeta] ''
+
 Luego pasas a clonarlo el repositorio en tu maquina local:
+
 '' git clone [enlace https del nuevo repositorio de tu cuenta GitHub] ''
+
 cuando termine de clonar, inicias dentro el repositorio:
+
 '' git init ''
+
 puedes crearte una rama para no trabajar sobre la rama master:
+
 '' git checkout -b [nombre de la rama] ''
+
 procedes a realizar o subir las modificaciones, en nuestro caso
 subimos un archivo instrucciones.txt:
+
 '' echo "este archivo contendra informacion sobre intruscciones">>instrucciones.txt ''
+
 aniadimos a la rama que tenemos:
+
 '' git add . ''
+
 verificamos si se subieron los cambios correctamente:
+
 '' git status ''
+
 realizamos el primer commit:
+
 '' git commit -m "Primer Commit" ''
+
 luego subimos al repositorio en la nube:
+
 '' git push origin [nombre de la rama] ''
+
 y verificamos que se halla subido correctamente en el repositorio de la nube
 mediante el navegador de preferencia.
 
