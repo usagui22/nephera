@@ -1,4 +1,4 @@
-# nephera
+# NEPHERA
 ## README
 
 Este es un ejemplo de un readme con lenguaje markdown.
@@ -16,7 +16,7 @@ archivo de **README**.
 #### - Otras consideraciones al momento de realizar un README ####
 
 
-### Proyecto Nephera
+### Proyecto Nephera ###
 
 El siguiente es un proyecto para realizar practicas con comandos Git, 
 la idea de utilizar un proyecto fantasma que posiblemente pueda
@@ -25,7 +25,7 @@ ser implementado por algun lenguaje.
 ATENCION SOLO CON FINES EDUCATIVOS - PRACTICOS
 ====================================================================
 
-### Comandos Git en Nephera
+### Comandos Git en Nephera ###
 
 
 Cuando se crea el proyecto en GitHub, se fue a la parte superior derecha 
@@ -40,7 +40,8 @@ README autogenerado y pulsar el boton aceptar o crear.
 Y listo ya tienes el repositorio...
 ========================================================================
 
-###### Comandos GIT
+###### Comandos GIT ######
+
 
 
 Para configurar tu equipo git debes ejecutar las siguientes:
@@ -71,7 +72,7 @@ y verificamos que se halla subido correctamente en el repositorio de la nube
 mediante el navegador de preferencia.
 ==========================================================================
 
-### Un buen README
+### Un buen README ###
 
 
 Un README.md es un archivo que contiene las instrucciones - acciones 
@@ -100,7 +101,7 @@ En la __Informacion Extra__, existe informacion adicional que los usuarios
 pueden utilizar para aclarar detalles que no hayan comprendido en el resto
 del **README** o informacion de contacto como redes sociales, etc.
 
-###### Otras Consideraciones al momento de realizar un README
+###### Otras Consideraciones al momento de realizar un README ######
 
 
 Podemos encontrar consejos optimos al realizar un README eficiente:
